@@ -2,7 +2,8 @@
 
 Driver drowsiness detection is a car safety technology that helps prevent accidents caused by the driver getting drowsy. Various studies have suggested that around 20% of all road accidents are fatigue-related, up to 50% on certain roads. Some of the current systems learn driver patterns and can detect when a driver is becoming drowsy.
 
-![Uploading image.png…]()
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/46486af2-aa37-4dc6-bba4-c21bf256149b)
+
 
 
 There are a number of different ways to detect driver drowsiness, including:

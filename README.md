@@ -9,18 +9,24 @@ Driver drowsiness detection is a car safety technology that helps prevent accide
 There are a number of different ways to detect driver drowsiness, including:
 
 Eye tracking: This involves tracking the driver's eye movements to look for signs of drowsiness, such as closed eyes, slow blinks, or glazed eyes.
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/78e9ef93-6418-413c-a664-e8ca85f90dae)
+
 
 
 Head pose: This involves tracking the driver's head position to look for signs of drowsiness, such as nodding off or tilting the head to one side.
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/725f9b2a-f741-4e7e-b820-59f2c4c60e8a)
 
 
 Facial expressions: This involves tracking the driver's facial expressions to look for signs of drowsiness, such as yawning, drooping eyelids, or a blank expression.
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/c8b2578f-a448-41c4-b28b-f70f13feff45)
 
 
 Steering behavior: This involves tracking the driver's steering behavior to look for signs of drowsiness, such as erratic steering, drifting out of lane, or tailgating.
 
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/82cf0d1a-b45c-4bad-ad01-5d59c088078a)
 
 Heartbeat: This involves tracking the driver's heartbeat to look for signs of drowsiness, such as a slower heartbeat or an irregular heartbeat.
+![image](https://github.com/nitishqr/Driver-Drowsiness-Detection-System/assets/138806541/dfda1ba1-9ffe-402c-ab9d-ac43520e1ce3)
 
 
 Driver drowsiness detection systems can be used in a variety of ways, including:
